@@ -9,7 +9,6 @@ Aqui você encontrará materiais sobre:
 * **Ferramentas e Automação com Scripts (Python, PowerShell, Bash)**
 
 ## 🚀 Como Utilizar
-
 Para clonar este repositório e acessar os materiais, utilize o seguinte comando:
 
 ```bash
