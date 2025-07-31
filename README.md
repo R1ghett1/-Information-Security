@@ -8,6 +8,8 @@ Aqui você encontrará materiais sobre:
 * **Hardening de Sistemas e Aplicações**
 * **Ferramentas e Automação com Scripts (Python, PowerShell, Bash)**
 
+* **Repositório em desenvolvimento** 
+
 ## 🚀 Como Utilizar
 Para clonar este repositório e acessar os materiais, utilize o seguinte comando:
 
