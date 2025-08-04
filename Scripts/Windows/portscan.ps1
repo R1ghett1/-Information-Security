@@ -33,7 +33,7 @@ else {
 #Usuário define a sequencia por intervalos
 elseif ($choice -eq 2) {
     
-    $ports_sequence_start = read-host "Digite o primeiro numbero da sequencia: "
+    $ports_sequence_start = read-host "Digite o primeiro numero da sequencia: "
     $ports_sequence_finish = read-host "Digite o ultimo numero da sequencia: "
 
     foreach ($target_port_sequence in $ports_sequence_start .. $ports_sequence_finish) {
@@ -54,3 +54,4 @@ foreach ($port in 1..65535) {
         echo "$port - Porta Fechada"
     }
 }
+
