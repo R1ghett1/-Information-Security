@@ -1,4 +1,4 @@
-# 🛡️ Security-Information | Repositório de Conhecimento em Segurança da Informação
+# 🛡️ Security-Information | Repositório de Conhecimento em Segurança da Informação 🛡️
 
 Aqui você encontrará materiais sobre:
 * **Análise de Vulnerabilidades e Pentesting**
