@@ -13,5 +13,19 @@ Em contra-partida a Segurança da Informação tem como principal objetivo a mit
 O profissional de Segurança da Informação tem como principal objetivo a garantia da confidencialidade, integridade e disponibilidade de quaisquer informações requisitadas.
 Tanto como, agir para a mitigação de riscos de uma determinada empresa/pessoa(s).
 
+## Pilares de Segurança da Informação
+
+**Confidencialidade**
+
+Garante que a informação seja somente acessível para quem tenha a permissão, seja ele um sistema, indivíduo ou grupo de indivíduos.
+
+**Integridade** 
+
+Garante que a informação é integra, ou seja, desde o momento que foi enviada até ser recebida, não houve alteração.
+
+**Disponibilidade**
+
+Garante que a informação esteja acessível quando necessária.
+
 
 
