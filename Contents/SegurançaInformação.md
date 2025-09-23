@@ -1,6 +1,6 @@
 # Segurança da informação
 
-Segurança da informação pode ser definidos de diversas formas, como por exemplo, um conjunto de políticas, práticas e regras que tem como principal objetivo a proteção a informação do acesso não autorizado.
+Segurança da informação pode ser definidos de diversas formas, como por exemplo, um conjunto de políticas, práticas e regras que tem como principal objetivo a proteção da informação do acesso não autorizado.
 
 **Informação**
 - Dado que possui algum valor para uma pessoa ou grupos de pessoas (empresas ou não)
