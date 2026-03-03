@@ -34,3 +34,4 @@ A principal desvantagem de um ambiente ponto a ponto é que o desempenho de um h
 
 Um computador com um software de servidor pode fornecer serviços simultaneamente a um ou vários clientes, além disso um único computador pode executar vários tipos de softwares clientes ou servidores.
 
+<img width="890" height="728" alt="image" src="https://github.com/user-attachments/assets/910073ff-8d05-4eb4-89d6-a55be578b821" />
