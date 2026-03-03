@@ -2,6 +2,12 @@
 
 ### Rede de Computadores
 
+Todos os computadores conectados a uma rede que participam diretamente na comunicação de rede são classificados como hosts. Os hosts podem enviar e receber mensagens na rede. Nas redes modernas, um host pode atuar como cliente, servidor ou ambos. O software instalado no computador determina qual função o computador desempenha.
+
+Servidores são hosts que tem um software instalado que os permite fornecer informações, como e-mail ou páginas web, a outros hosts presentes na rede. Cada serviço exige um software separado. Por exemplo, um servidor exige um software de servidor Web para fornecer serviços à rede. Cada destino que o usuário acessa on-line é fornecido por um servidor localidado em algum lugar da rede conectada à internet global.
+
+Clientes são computadores hosts que têm um software instalado que os permite solicitar e exibir as informações obtidas em um servidor. Um exemplo de software cliente é um navegador web.
+
 Uma rede de computadores pode ser definida como a comunicação entre um ou mais dispositivos.
 
 Host -> Nome atribuído ao computador na rede.
